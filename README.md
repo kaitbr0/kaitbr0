@@ -11,7 +11,7 @@ I'm a software engineer from New York. I'm currently working on <b>class pet</b>
 | postgresQL | HTML  | Jasmine         | Debugging       |
 | MongoDB    | CSS   | Electron        | Leadership      |
 
-## What am I learning? :books:
+## What am I learning? :books: :snake: :boat:
 
 I'm always learning something new. I've had some experience with Python in the past and am hoping to work in it more. I also am interested in containerization/microservices and Docker.
 
