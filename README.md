@@ -2,7 +2,7 @@
 
 I'm a software engineer from New York. I'm currently working on <b>class pet</b>, an app leveraging react, express, and microsoft azure, to help students with autism succeed in a remote learning environment.
 
-## Current Stack :computer: :iphone:
+## Skills :computer: :iphone:
 
 | Back       | Front | Technologies    | Skills          |
 | ---------- | ----- | --------------- | --------------- |
