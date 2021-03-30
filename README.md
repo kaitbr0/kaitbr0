@@ -1,6 +1,6 @@
 # Hi, I'm Kait! :alien:
 
-I'm a software engineer from New York. I'm currently working on <b>class pet</b>, an app leveraging react, express, and microsoft azure, to help students with autism succeed in a remote learning environment.
+I'm a software engineer from New York. I'm currently working on <b>class pet</b>, an app leveraging react, express, and microsoft azure, to help students with autism succeed in a remote learning environment. Available for hire.
 
 ## Skills :computer: :iphone:
 
