@@ -1,6 +1,6 @@
 # Hi, I'm Kait! :alien:
 
-I'm a software engineer from New York. I'm currently working on <b>class pet</b>, an app leveraging react, express, and microsoft azure, to help students with autism succeed in a remote learning environment. Available for hire.
+I'm a software engineer from New York. Available for hire.
 
 ## Skills :computer: :iphone:
 
@@ -13,7 +13,7 @@ I'm a software engineer from New York. I'm currently working on <b>class pet</b>
 
 ## What am I learning? :books: :snake: :boat:
 
-I'm always learning something new. I've had some experience with Python in the past and am hoping to work in it more. I also am interested in containerization/microservices and Docker.
+I'm always learning something new. Right now, it's GraphQL. 
 
 ## Previously :headphones: :hourglass: :beer:
 
