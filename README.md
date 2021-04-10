@@ -8,7 +8,7 @@ I'm a software engineer from New York. Available for hire.
 | ---------- | ----- | --------------- | --------------- |
 | Node.js    | React | Git             | Communication   |
 | Express.js | Redux | Microsoft Azure | Problem Solving |
-| postgreSQL | HTML  | Jasmine         | Debugging       |
+| PostgreSQL | HTML  | Jasmine         | Debugging       |
 | MongoDB    | CSS   | Electron        | Leadership      |
 
 ## What am I learning? :books: :snake: :boat:
