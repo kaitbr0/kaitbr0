@@ -1,6 +1,6 @@
 # Hi, I'm Kait! :alien:
 
-I'm a software engineer from New York. Available for hire.
+I'm a software engineer from New York. Currently looking for a full time position.
 
 ## Skills :computer: :iphone:
 
@@ -10,6 +10,7 @@ I'm a software engineer from New York. Available for hire.
 | Express.js | Redux | Microsoft Azure | Problem Solving |
 | PostgreSQL | HTML  | Jasmine         | Debugging       |
 | MongoDB    | CSS   | Electron        | Leadership      |
+| GraphQL | | | | 
 
 ## What am I learning? :books: :snake: :boat:
 
