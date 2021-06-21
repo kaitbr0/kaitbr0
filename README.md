@@ -1,6 +1,6 @@
 # Hi, I'm Kait! :alien:
 
-I'm a software engineer from New York. Currently looking for a full time position.
+I'm a software engineer from New York.
 
 ## Skills :computer: :iphone:
 
