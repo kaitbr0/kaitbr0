@@ -1,3 +1,3 @@
-# Hi, I'm Kait! :alien:
+# :alien:
 
 I'm a software engineer from New York.
